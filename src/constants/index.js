@@ -117,7 +117,7 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their Details like Pranav does.",
-    name: "CVihar Shah",
+    name: "Krupal Shah",
     designation: "Product Engineer",
     company: "Sprinklr",
 
